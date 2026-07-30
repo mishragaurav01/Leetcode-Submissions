@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mishragaurav01/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mishragaurav01/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -84,5 +85,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mishragaurav01/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mishragaurav01/neetcode-submissions/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mishragaurav01/neetcode-submissions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
